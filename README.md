@@ -4,6 +4,7 @@ Esse projeto foi muito importante para mim, antes de começa-lo eu tive outro pr
 Tenho muita gratidão por ter tido a oportunidade de fazer esse projeto e gostei bastante de conhecer e entender a linguagem Java e também ampliar meus conhecimentos de SQL. Agora eu considero que a linguagem que eu mais me aprofundei e tive contato foi essa.
 # Observação
 No projeto tem uma dependencia chamada r2xml, que é uma biblioteca que acabei instalando localmente em vez de usar o Maven, entao coloquei ela junto aqui no git. É só clicar encima da dependencia pelo net beans e manualmente localizar e instalar ela.
+
 Referências:
 1. https://www.youtube.com/watch?v=rB66EC0VXTA&list=PLbEOwbQR9lqxsTusvu8wfkUECrmcV81MU 
 Professor José de Assis
