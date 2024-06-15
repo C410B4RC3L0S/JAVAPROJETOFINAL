@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"br.com.reisschool.dal"},{"l":"br.com.reisschool.telas"}];updateSearchResults();
